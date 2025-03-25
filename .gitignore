@@ -1,0 +1,24 @@
+node_modules
+data
+build
+# Virtual environment
+venv12/
+venv12/*
+*.venv12
+*.venv12/*
+
+venv/
+venv/*
+*.venv
+*.venv/*
+
+venvnew/
+venvnew/*
+*.venvnew
+*.venvnew/*
+
+# Additional Python virtual environment exclusions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
