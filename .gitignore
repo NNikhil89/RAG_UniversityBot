@@ -12,6 +12,8 @@ venv/*
 *.venv
 *.venv/*
 
+src/.env
+
 venvnew/
 venvnew/*
 *.venvnew
